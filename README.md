@@ -9,11 +9,6 @@
     - 2021
 - BA in Social Psychology at Antioch College
     - 2018
-  
-## Interests
-- Minority stress theory
-- Diversity research
-- Self-determination theory
 
 
 <html>​
