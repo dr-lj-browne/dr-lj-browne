@@ -1,10 +1,14 @@
 # Dr. Jordan Browne
+He/him/his
 [Google Scholar](https://scholar.google.com/citations?user=ZT9XsRkAAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/lindsay-browne-2688292b4/)
-### *he/him/his*
+## *Education*
 - PhD in Social Psychology (Defending soon) at University of Houston
+    - 2024
 - MA in Psychology at University of Houston
+    - 2021
 - BA in Social Psychology at Antioch College
+    - 2018
   
 ## Interests
 - Minority stress theory
@@ -12,47 +16,68 @@
 - Self-determination theory
 
 
+<html>​
 
 <table>
+  
+
   <tr>
-    <th> SKILLS</th>
-    <th> EXAMPLES </th>
-  </tr>
-  <tr>
-    <td valign="top"> 
-<table>
+    <td valign="Top"> 
+<table >
   <tr>
   <th> Software</th>
   <th>Skill Level</th>
     </tr>
   <tr>
     <td>R</td>
-    <td>Advanced</td>
+    <td> :white_check_mark: :white_check_mark: :white_check_mark:</td>
   </tr>
    <tr>
     <td>SAS</td>
-    <td>Advanced</td>
+    <td> :white_check_mark: :white_check_mark: :white_check_mark:</td>
   </tr>
    <tr>
     <td>Stata</td>
-    <td>Advanced</td>
+    <td>:white_check_mark: :white_check_mark: :white_check_mark:</td>
   </tr>
    <tr>
     <td>Mplus</td>
-    <td>Intermediate</td>
+    <td> :white_check_mark: :white_check_mark: </td>
   </tr>
     <tr>
     <td>Excel</td>
-    <td>Intermediate</td>
+    <td>:white_check_mark: :white_check_mark:</td>
   </tr>
     <tr>
     <td>IRTPro</td>
-    <td>Intermediate</td>
+    <td>:white_check_mark: :white_check_mark: </td>
   </tr>
     <tr>
     <td>Python</td>
+      <td>:white_check_mark:</td>
+    </tr>
+    <tr>
     <td>SQL</td>
+    <td>
+      :white_check_mark:
+    </td>
   </tr>
+</table>
+<table>
+  <tr>
+  <th>Awards</th>
+    <th>Amount</th>
+    </tr>
+  <tr><td>SPSSI Grants-In-Aid</td>
+  <td> $1000</td></tr>
+  <tr><td>Alternative Textbook Incentive Program</td>
+  <td> $2000</td></tr>
+  <tr><td>Diversity Day Second Place Presentation</td>
+  <td> $200</td></tr>
+  <tr><td>Psychology Recruitment Fellowship</td>
+  <td>$25000</td></tr>
+  <tr><td>Horace Mann Felowship</td>
+  <td> Undergraduate Tuition</td></tr>
 </table>
     </td>
   
@@ -61,6 +86,7 @@
   </td>
   </tr>
 </table>
+</html>
 
 
 <!---
