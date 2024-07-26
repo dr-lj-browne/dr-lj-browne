@@ -1,8 +1,8 @@
 # Dr. Jordan Browne
-He/him/his
+*He/him/his*  
 [Google Scholar](https://scholar.google.com/citations?user=ZT9XsRkAAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/lindsay-browne-2688292b4/)
-## *Education*
+## Education
 - PhD in Social Psychology (Defending soon) at University of Houston
     - 2024
 - MA in Psychology at University of Houston
