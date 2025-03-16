@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/lindsay-browne-2688292b4/)
 [Email](mailto:ljbrowne@uh.edu)
 ## Education
-- PhD in Social Psychology (Defending soon) at University of Houston
+- PhD in Social Psychology at University of Houston
       - Minor: Quantitative Methods in Social Psychology
     - 2024
     - Dissertation: A Self-determination Theory Perspective on Transgender Identity Development  
